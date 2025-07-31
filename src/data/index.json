@@ -1,0 +1,3482 @@
+[
+  {
+    "id": "1",
+    "name": "Arrays",
+    "info_path": "https://www.youtube.com/watch?v=PEnFFiQe1pM",
+    "order_idx": "1",
+    "problems": [
+      {
+        "id": "283",
+        "title": "Move Zeroes",
+        "external_link": "move-zeroes",
+        "difficulty": "Easy",
+        "pattern_id": "1",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "169",
+        "title": "Majority Element",
+        "external_link": "majority-element",
+        "difficulty": "Easy",
+        "pattern_id": "1",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "26",
+        "title": "Remove Duplicates from Sorted Array",
+        "external_link": "remove-duplicates-from-sorted-array",
+        "difficulty": "Easy",
+        "pattern_id": "1",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "121",
+        "title": "Best Time to Buy and Sell Stock",
+        "external_link": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "pattern_id": "1",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "189",
+        "title": "Rotate Array",
+        "external_link": "rotate-array",
+        "difficulty": "Medium",
+        "pattern_id": "1",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "238",
+        "title": "Product of Array Except Self",
+        "external_link": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "pattern_id": "1",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "122",
+        "title": "Best Time to Buy and Sell Stock II",
+        "external_link": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": "Medium",
+        "pattern_id": "1",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2348",
+        "title": "Number of Zero-Filled Subarrays",
+        "external_link": "number-of-zero-filled-subarrays",
+        "difficulty": "Medium",
+        "pattern_id": "1",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "334",
+        "title": "Increasing Triplet Subsequence",
+        "external_link": "increasing-triplet-subsequence",
+        "difficulty": "Medium",
+        "pattern_id": "1",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "41",
+        "title": "First Missing Positive",
+        "external_link": "first-missing-positive",
+        "difficulty": "Hard",
+        "pattern_id": "1",
+        "order_idx": "10",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    " name": "Strings",
+    "info_path": "https://www.youtube.com/watch?v=yMkFYxrDL2M",
+    "order_idx": "2",
+    "problems": [
+      {
+        "id": "392",
+        "title": "Is Subsequence",
+        "external_link": "is-subsequence",
+        "difficulty": "Easy",
+        "pattern_id": "2",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "125",
+        "title": "Valid Palindrome",
+        "external_link": "valid-palindrome",
+        "difficulty": "Easy",
+        "pattern_id": "2",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "14",
+        "title": "Longest Common Prefix",
+        "external_link": "longest-common-prefix",
+        "difficulty": "Easy",
+        "pattern_id": "2",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "6",
+        "title": "Zigzag Conversion",
+        "external_link": "zigzag-conversion",
+        "difficulty": "Medium",
+        "pattern_id": "2",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "151",
+        "title": "Reverse Words in a String",
+        "external_link": "reverse-words-in-a-string",
+        "difficulty": "Medium",
+        "pattern_id": "2",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "843",
+        "title": "Guess the Word",
+        "external_link": "guess-the-word",
+        "difficulty": "Hard",
+        "pattern_id": "2",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Bit Manipulation",
+    "info_path": "https://www.youtube.com/watch?v=NLKQEOgBAnw",
+    "order_idx": "3",
+    "problems": [
+      {
+        "id": "136",
+        "title": "Single Number",
+        "external_link": "single-number",
+        "difficulty": "Easy",
+        "pattern_id": "3",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "191",
+        "title": "Number of 1 Bits",
+        "external_link": "number-of-1-bits",
+        "difficulty": "Easy",
+        "pattern_id": "3",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "338",
+        "title": "Counting Bits",
+        "external_link": "counting-bits",
+        "difficulty": "Easy",
+        "pattern_id": "3",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "190",
+        "title": "Reverse Bits",
+        "external_link": "reverse-bits",
+        "difficulty": "Easy",
+        "pattern_id": "3",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "201",
+        "title": "Bitwise AND of Numbers Range",
+        "external_link": "bitwise-and-of-numbers-range",
+        "difficulty": "Medium",
+        "pattern_id": "3",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "260",
+        "title": "Single Number III",
+        "external_link": "single-number-iii",
+        "difficulty": "Medium",
+        "pattern_id": "3",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "371",
+        "title": "Sum of Two Integers",
+        "external_link": "sum-of-two-integers",
+        "difficulty": "Medium",
+        "pattern_id": "3",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hash Tables",
+    "info_path": "https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS",
+    "order_idx": "4",
+    "problems": [
+      {
+        "id": "706",
+        "title": "Design HashMap",
+        "external_link": "design-hashmap",
+        "difficulty": "Easy",
+        "pattern_id": "4",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1189",
+        "title": "Maximum Number of Balloons",
+        "external_link": "maximum-number-of-balloons",
+        "difficulty": "Easy",
+        "pattern_id": "4",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1512",
+        "title": "Number of Good Pairs",
+        "external_link": "number-of-good-pairs",
+        "difficulty": "Easy",
+        "pattern_id": "4",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "205",
+        "title": "Isomorphic Strings",
+        "external_link": "isomorphic-strings",
+        "difficulty": "Easy",
+        "pattern_id": "4",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "383",
+        "title": "Ransom Note",
+        "external_link": "ransom-note",
+        "difficulty": "Easy",
+        "pattern_id": "4",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "219",
+        "title": "Contains Duplicate II",
+        "external_link": "contains-duplicate-ii",
+        "difficulty": "Easy",
+        "pattern_id": "4",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "49",
+        "title": "Group Anagrams",
+        "external_link": "group-anagrams",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "535",
+        "title": "Encode and Decode TinyURL",
+        "external_link": "encode-and-decode-tinyurl",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "767",
+        "title": "Reorganize String",
+        "external_link": "reorganize-string",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "128",
+        "title": "Longest Consecutive Sequence",
+        "external_link": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "10",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "659",
+        "title": "Split Array into Consecutive Subsequences",
+        "external_link": "split-array-into-consecutive-subsequences",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "11",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "792",
+        "title": "Number of Matching Subsequences",
+        "external_link": "number-of-matching-subsequences",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "12",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1525",
+        "title": "Number of Good Ways to Split a String",
+        "external_link": "number-of-good-ways-to-split-a-string",
+        "difficulty": "Medium",
+        "pattern_id": "4",
+        "order_idx": "13",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Two Pointers",
+    "info_path": "https://www.youtube.com/watch?v=QzZ7nmouLTI",
+    "order_idx": "5",
+    "problems": [
+      {
+        "id": "88",
+        "title": "Merge Sorted Array",
+        "external_link": "merge-sorted-array",
+        "difficulty": "Easy",
+        "pattern_id": "5",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "167",
+        "title": "Two Sum II - Input Array Is Sorted",
+        "external_link": "two-sum-ii-input-array-is-sorted",
+        "difficulty": "Medium",
+        "pattern_id": "5",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "11",
+        "title": "Container With Most Water",
+        "external_link": "container-with-most-water",
+        "difficulty": "Medium",
+        "pattern_id": "5",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "15",
+        "title": "3Sum",
+        "external_link": "3Sum",
+        "difficulty": "Medium",
+        "pattern_id": "5",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "42",
+        "title": "Trapping Rain Water",
+        "external_link": "trapping-rain-water",
+        "difficulty": "Hard",
+        "pattern_id": "5",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Prefix Sum",
+    "info_path": "https://www.youtube.com/watch?v=yuws7YK0Yng",
+    "order_idx": "6",
+    "problems": [
+      {
+        "id": "303",
+        "title": "Range Sum Query - Immutable",
+        "external_link": "range-sum-query-immutable",
+        "difficulty": "Easy",
+        "pattern_id": "6",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "560",
+        "title": "Subarray Sum Equals K",
+        "external_link": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "pattern_id": "6",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "974",
+        "title": "Subarray Sums Divisible by K",
+        "external_link": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium",
+        "pattern_id": "6",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "523",
+        "title": "Continuous Subarray Sum",
+        "external_link": "continuous-subarray-sum",
+        "difficulty": "Medium",
+        "pattern_id": "6",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "525",
+        "title": "Contiguous Array",
+        "external_link": "contiguous-array",
+        "difficulty": "Medium",
+        "pattern_id": "6",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Sliding Window - Fixed Size",
+    "info_path": "https://www.youtube.com/watch?v=y2d0VHdvfdc",
+    "order_idx": "7",
+    "problems": [
+      {
+        "id": "643",
+        "title": "Maximum Average Subarray I",
+        "external_link": "maximum-average-subarray-i",
+        "difficulty": "Easy",
+        "pattern_id": "7",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "438",
+        "title": "Find All Anagrams in a String",
+        "external_link": "find-all-anagrams-in-a-string",
+        "difficulty": "Medium",
+        "pattern_id": "7",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "567",
+        "title": "Permutation in String",
+        "external_link": "permutation-in-string",
+        "difficulty": "Medium",
+        "pattern_id": "7",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2461",
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "external_link": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium",
+        "pattern_id": "7",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "30",
+        "title": "Substring with Concatenation of All Words",
+        "external_link": "substring-with-concatenation-of-all-words",
+        "difficulty": "Hard",
+        "pattern_id": "7",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Sliding Window - Dynamic Size",
+    "info_path": "https://www.youtube.com/watch?v=y2d0VHdvfdc",
+    "order_idx": "8",
+    "problems": [
+      {
+        "id": "3",
+        "title": "Longest Substring Without Repeating Characters",
+        "external_link": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "pattern_id": "8",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "424",
+        "title": "Longest Repeating Character Replacement",
+        "external_link": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "pattern_id": "8",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "209",
+        "title": "Minimum Size Subarray Sum",
+        "external_link": "minimum-size-subarray-sum",
+        "difficulty": "Medium",
+        "pattern_id": "8",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1004",
+        "title": "Max Consecutive Ones III",
+        "external_link": "max-consecutive-ones-iii",
+        "difficulty": "Medium",
+        "pattern_id": "8",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "76",
+        "title": "Minimum Window Substring",
+        "external_link": "minimum-window-substring",
+        "difficulty": "Hard",
+        "pattern_id": "8",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Kadane's Algorithm",
+    "info_path": "https://www.youtube.com/watch?v=NUWAXbSlsws",
+    "order_idx": "9",
+    "problems": [
+      {
+        "id": "53",
+        "title": "Maximum Subarray",
+        "external_link": "maximum-subarray",
+        "difficulty": "Medium",
+        "pattern_id": "9",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "918",
+        "title": "Maximum Sum Circular Subarray",
+        "external_link": "maximum-sum-circular-subarray",
+        "difficulty": "Medium",
+        "pattern_id": "9",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "152",
+        "title": "Maximum Product Subarray",
+        "external_link": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "pattern_id": "9",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1014",
+        "title": "Best Sightseeing Pair",
+        "external_link": "best-sightseeing-pair",
+        "difficulty": "Medium",
+        "pattern_id": "9",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Matrix (2D Array)",
+    "info_path": "https://www.youtube.com/watch?v=J1aQ9JN4vZY",
+    "order_idx": "10",
+    "problems": [
+      {
+        "id": "54",
+        "title": "Spiral Matrix",
+        "external_link": "spiral-matrix",
+        "difficulty": "Medium",
+        "pattern_id": "10",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "48",
+        "title": "Rotate Image",
+        "external_link": "rotate-image",
+        "difficulty": "Medium",
+        "pattern_id": "10",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "73",
+        "title": "Set Matrix Zeroes",
+        "external_link": "set-matrix-zeroes",
+        "difficulty": "Medium",
+        "pattern_id": "10",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "36",
+        "title": "Valid Sudoku",
+        "external_link": "valid-sudoku",
+        "difficulty": "Medium",
+        "pattern_id": "10",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "289",
+        "title": "Game of Life",
+        "external_link": "game-of-life",
+        "difficulty": "Medium",
+        "pattern_id": "10",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Linked List",
+    "info_path": "https://www.youtube.com/watch?v=WwfhLC16bis",
+    "order_idx": "11",
+    "problems": [
+      {
+        "id": "160",
+        "title": "Intersection of Two Linked Lists",
+        "external_link": "intersection-of-two-linked-lists",
+        "difficulty": "Easy",
+        "pattern_id": "11",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "707",
+        "title": "Design Linked List",
+        "external_link": "design-linked-list",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "19",
+        "title": "Remove Nth Node From End of List",
+        "external_link": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "82",
+        "title": "Remove Duplicates from Sorted List II",
+        "external_link": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "24",
+        "title": "Swap Nodes in Pairs",
+        "external_link": "swap-nodes-in-pairs",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "138",
+        "title": "Copy List with Random Pointer",
+        "external_link": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "86",
+        "title": "Partition List",
+        "external_link": "partition-list",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "61",
+        "title": "Rotate List",
+        "external_link": "rotate-list",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2",
+        "title": "Add Two Numbers",
+        "external_link": "add-two-numbers",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "430",
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "external_link": "flatten-a-multilevel-doubly-linked-list",
+        "difficulty": "Medium",
+        "pattern_id": "11",
+        "order_idx": "10",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "LinkedList In-place Reversal",
+    "info_path": "https://www.youtube.com/watch?v=auoTGovuo9A",
+    "order_idx": "12",
+    "problems": [
+      {
+        "id": "234",
+        "title": "Palindrome Linked List",
+        "external_link": "palindrome-linked-list",
+        "difficulty": "Easy",
+        "pattern_id": "12",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "206",
+        "title": "Reverse Linked List",
+        "external_link": "reverse-linked-list",
+        "difficulty": "Easy",
+        "pattern_id": "12",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "92",
+        "title": "Reverse Linked List II",
+        "external_link": "reverse-linked-list-ii",
+        "difficulty": "Medium",
+        "pattern_id": "12",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "25",
+        "title": "Reverse Nodes in k-Group",
+        "external_link": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "pattern_id": "12",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Fast and Slow Pointers",
+    "info_path": "https://www.youtube.com/watch?v=b139yf7Ik-E",
+    "order_idx": "13",
+    "problems": [
+      {
+        "id": "876",
+        "title": "Middle of the Linked List",
+        "external_link": "middle-of-the-linked-list",
+        "difficulty": "Easy",
+        "pattern_id": "13",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "202",
+        "title": "Happy Number",
+        "external_link": "happy-number",
+        "difficulty": "Easy",
+        "pattern_id": "13",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "141",
+        "title": "Linked List Cycle II",
+        "external_link": "linked-list-cycle-ii",
+        "difficulty": "Medium",
+        "pattern_id": "13",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Stacks",
+    "info_path": "https://www.youtube.com/watch?v=I37kGX-nZEI&list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn",
+    "order_idx": "14",
+    "problems": [
+      {
+        "id": "20",
+        "title": "Valid Parentheses",
+        "external_link": "valid-parentheses",
+        "difficulty": "Easy",
+        "pattern_id": "14",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1047",
+        "title": "Remove All Adjacent Duplicates In String",
+        "external_link": "remove-all-adjacent-duplicates-in-string",
+        "difficulty": "Easy",
+        "pattern_id": "14",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "155",
+        "title": "Min Stack",
+        "external_link": "min-stack",
+        "difficulty": "Medium",
+        "pattern_id": "14",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "316",
+        "title": "Remove Duplicate Letters",
+        "external_link": "remove-duplicate-letters",
+        "difficulty": "Medium",
+        "pattern_id": "14",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2390",
+        "title": "Removing Stars From a String",
+        "external_link": "removing-stars-from-a-string",
+        "difficulty": "Medium",
+        "pattern_id": "14",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "150",
+        "title": "Evaluate Reverse Polish Notation",
+        "external_link": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium",
+        "pattern_id": "14",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "227",
+        "title": "Basic Calculator II",
+        "external_link": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "pattern_id": "14",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "32",
+        "title": "Longest Valid Parentheses",
+        "external_link": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "pattern_id": "14",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Monotonic Stack",
+    "info_path": "https://www.youtube.com/watch?v=DtJVwbbicjQ",
+    "order_idx": "15",
+    "problems": [
+      {
+        "id": "496",
+        "title": "Next Greater Element I",
+        "external_link": "next-greater-element-i",
+        "difficulty": "Easy",
+        "pattern_id": "15",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "739",
+        "title": "Daily Temperatures",
+        "external_link": "daily-temperatures",
+        "difficulty": "Medium",
+        "pattern_id": "15",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "901",
+        "title": "Online Stock Span",
+        "external_link": "online-stock-span",
+        "difficulty": "Medium",
+        "pattern_id": "15",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "456",
+        "title": "132 Pattern",
+        "external_link": "132-pattern",
+        "difficulty": "Medium",
+        "pattern_id": "15",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1944",
+        "title": "Number of Visible People in a Queue",
+        "external_link": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard",
+        "pattern_id": "15",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "84",
+        "title": "Largest Rectangle in Histogram",
+        "external_link": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "pattern_id": "15",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Queues",
+    "info_path": "https://www.youtube.com/watch?v=KxzhEQ-zpDc&list=PLDV1Zeh2NRsAWrxWRTHJrsgBrbwqGzt-z",
+    "order_idx": "16",
+    "problems": [
+      {
+        "id": "933",
+        "title": "Number of Recent Calls",
+        "external_link": "number-of-recent-calls",
+        "difficulty": "Easy",
+        "pattern_id": "16",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2073",
+        "title": "Time Needed to Buy Tickets",
+        "external_link": "time-needed-to-buy-tickets",
+        "difficulty": "Easy",
+        "pattern_id": "16",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "950",
+        "title": "Reveal Cards In Increasing Order",
+        "external_link": "reveal-cards-in-increasing-order",
+        "difficulty": "Medium",
+        "pattern_id": "16",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Monotonic Queue",
+    "info_path": "https://www.youtube.com/watch?v=DfljaUwZsOk&pp=ygUPbW9ub3RvbmljIHF1ZXVl",
+    "order_idx": "17",
+    "problems": [
+      {
+        "id": "1438",
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "external_link": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium",
+        "pattern_id": "17",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1696",
+        "title": "Jump Game VI",
+        "external_link": "jump-game-vi",
+        "difficulty": "Medium",
+        "pattern_id": "17",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "239",
+        "title": "Sliding Window Maximum",
+        "external_link": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "pattern_id": "17",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1499",
+        "title": "Max Value of Equation",
+        "external_link": "max-value-of-equation",
+        "difficulty": "Hard",
+        "pattern_id": "17",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Bucket Sort",
+    "info_path": "https://www.youtube.com/watch?v=ROnYubH_spM",
+    "order_idx": "18",
+    "problems": [
+      {
+        "id": "451",
+        "title": "Sort Characters By Frequency",
+        "external_link": "sort-characters-by-frequency",
+        "difficulty": "Medium",
+        "pattern_id": "18",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "692",
+        "title": "Top K Frequent Words",
+        "external_link": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "pattern_id": "18",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "164",
+        "title": "Maximum Gap",
+        "external_link": "maximum-gap",
+        "difficulty": "Medium",
+        "pattern_id": "18",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Recursion",
+    "info_path": "https://www.youtube.com/watch?v=ngCos392W4w",
+    "order_idx": "19",
+    "problems": [
+      {
+        "id": "21",
+        "title": "Merge Two Sorted Lists",
+        "external_link": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "pattern_id": "19",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "50",
+        "title": "Pow(x, n)",
+        "external_link": "powx-n",
+        "difficulty": "Medium",
+        "pattern_id": "19",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "394",
+        "title": "Decode String",
+        "external_link": "decode-string",
+        "difficulty": "Medium",
+        "pattern_id": "19",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Divide and Conquer",
+    "info_path": "https://www.youtube.com/watch?v=2Rr2tW9zvRg",
+    "order_idx": "20",
+    "problems": [
+      {
+        "id": "109",
+        "title": "Convert Sorted List to Binary Search Tree",
+        "external_link": "convert-sorted-list-to-binary-search-tree",
+        "difficulty": "Medium",
+        "pattern_id": "20",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "427",
+        "title": "Construct Quad Tree",
+        "external_link": "construct-quad-tree",
+        "difficulty": "Medium",
+        "pattern_id": "20",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "654",
+        "title": "Maximum Binary Tree",
+        "external_link": "maximum-binary-tree",
+        "difficulty": "Medium",
+        "pattern_id": "20",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Merge Sort",
+    "info_path": "https://www.youtube.com/watch?v=TzeBrDU-JaY",
+    "order_idx": "21",
+    "problems": [
+      {
+        "id": "148",
+        "title": "Sort List",
+        "external_link": "sort-list",
+        "difficulty": "Medium",
+        "pattern_id": "21",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "493",
+        "title": "Reverse Pairs",
+        "external_link": "reverse-pairs",
+        "difficulty": "Hard",
+        "pattern_id": "21",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "QuickSort / QuickSelect",
+    "info_path": "https://www.youtube.com/watch?v=XEmy13g1Qxc",
+    "order_idx": "22",
+    "problems": [
+      {
+        "id": "75",
+        "title": "Sort Colors",
+        "external_link": "sort-colors",
+        "difficulty": "Medium",
+        "pattern_id": "22",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "215",
+        "title": "Kth Largest Element in an Array",
+        "external_link": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "pattern_id": "22",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Binary Search",
+    "info_path": "https://www.youtube.com/watch?v=P3YID7liBug",
+    "order_idx": "23",
+    "problems": [
+      {
+        "id": "35",
+        "title": "Search Insert Position",
+        "external_link": "search-insert-position",
+        "difficulty": "Easy",
+        "pattern_id": "23",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "34",
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "external_link": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "33",
+        "title": "Search in Rotated Sorted Array",
+        "external_link": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "162",
+        "title": "Find Peak Element",
+        "external_link": "find-peak-element",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "528",
+        "title": "Random Pick with Weight",
+        "external_link": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "875",
+        "title": "Koko Eating Bananas",
+        "external_link": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "153",
+        "title": "Find Minimum in Rotated Sorted Array",
+        "external_link": "find-minimum-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "74",
+        "title": "Search a 2D Matrix",
+        "external_link": "search-a-2d-matrix",
+        "difficulty": "Medium",
+        "pattern_id": "23",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1095",
+        "title": "Find in Mountain Array",
+        "external_link": "find-in-mountain-array",
+        "difficulty": "Hard",
+        "pattern_id": "23",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "4",
+        "title": "Median of Two Sorted Arrays",
+        "external_link": "median-of-two-sorted-arrays",
+        "difficulty": "Hard",
+        "pattern_id": "23",
+        "order_idx": "10",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Backtracking",
+    "info_path": "https://www.youtube.com/watch?v=DKCbsiDBN6c",
+    "order_idx": "24",
+    "problems": [
+      {
+        "id": "22",
+        "title": "Generate Parentheses",
+        "external_link": "generate-parentheses",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "46",
+        "title": "Permutations",
+        "external_link": "permutations",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "78",
+        "title": "Subsets",
+        "external_link": "subsets",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "39",
+        "title": "Combination Sum",
+        "external_link": "combination-sum",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "40",
+        "title": "Combination Sum II",
+        "external_link": "combination-sum-ii",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "17",
+        "title": "Letter Combinations of a Phone Number",
+        "external_link": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "131",
+        "title": "Palindrome Partitioning",
+        "external_link": "palindrome-partitioning",
+        "difficulty": "Medium",
+        "pattern_id": "24",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "51",
+        "title": "N-Queens",
+        "external_link": "n-queens",
+        "difficulty": "Hard",
+        "pattern_id": "24",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Tree Traversal - Level Order",
+    "info_path": "https://www.youtube.com/watch?v=rpPWkRijTh0",
+    "order_idx": "25",
+    "problems": [
+      {
+        "id": "102",
+        "title": "Binary Tree Level Order Traversal",
+        "external_link": "binary-tree-level-order-traversal",
+        "difficulty": "Medium",
+        "pattern_id": "25",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "199",
+        "title": "Binary Tree Right Side View",
+        "external_link": "binary-tree-right-side-view",
+        "difficulty": "Medium",
+        "pattern_id": "25",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "103",
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "external_link": "binary-tree-zigzag-level-order-traversal",
+        "difficulty": "Medium",
+        "pattern_id": "25",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "117",
+        "title": "Populating Next Right Pointers in Each Node II",
+        "external_link": "populating-next-right-pointers-in-each-node-ii",
+        "difficulty": "Medium",
+        "pattern_id": "25",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "662",
+        "title": "Maximum Width of Binary Tree",
+        "external_link": "maximum-width-of-binary-tree",
+        "difficulty": "Medium",
+        "pattern_id": "25",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Tree Traversal - Pre Order",
+    "info_path": "",
+    "order_idx": "26",
+    "problems": [
+      {
+        "id": "144",
+        "title": "Binary Tree Preorder Traversal",
+        "external_link": "binary-tree-preorder-traversal",
+        "difficulty": "Easy",
+        "pattern_id": "26",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "100",
+        "title": "Same Tree",
+        "external_link": "same-tree",
+        "difficulty": "Easy",
+        "pattern_id": "26",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "101",
+        "title": "Symmetric Tree",
+        "external_link": "symmetric-tree",
+        "difficulty": "Easy",
+        "pattern_id": "26",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "257",
+        "title": "Binary Tree Paths",
+        "external_link": "binary-tree-paths",
+        "difficulty": "Easy",
+        "pattern_id": "26",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "108",
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "external_link": "convert-sorted-array-to-binary-search-tree",
+        "difficulty": "Easy",
+        "pattern_id": "26",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "222",
+        "title": "Count Complete Tree Nodes",
+        "external_link": "count-complete-tree-nodes",
+        "difficulty": "Easy",
+        "pattern_id": "26",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "437",
+        "title": "Path Sum III",
+        "external_link": "path-sum-iii",
+        "difficulty": "Medium",
+        "pattern_id": "26",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1026",
+        "title": "Maximum Difference Between Node and Ancestor",
+        "external_link": "maximum-difference-between-node-and-ancestor",
+        "difficulty": "Medium",
+        "pattern_id": "26",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "105",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "external_link": "construct-binary-tree-from-preorder-and-inorder-traversal",
+        "difficulty": "Medium",
+        "pattern_id": "26",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "106",
+        "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "external_link": "construct-binary-tree-from-inorder-and-postorder-traversal",
+        "difficulty": "Medium",
+        "pattern_id": "26",
+        "order_idx": "10",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "297",
+        "title": "Serialize and Deserialize Binary Tree",
+        "external_link": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard",
+        "pattern_id": "26",
+        "order_idx": "11",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Tree Traversal - In Order",
+    "info_path": "https://www.youtube.com/watch?v=g_S5WuasWUE",
+    "order_idx": "27",
+    "problems": [
+      {
+        "id": "94",
+        "title": "Binary Tree Inorder Traversal",
+        "external_link": "binary-tree-inorder-traversal",
+        "difficulty": "Easy",
+        "pattern_id": "27",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "783",
+        "title": "Minimum Distance Between BST Nodes",
+        "external_link": "minimum-distance-between-bst-nodes",
+        "difficulty": "Easy",
+        "pattern_id": "27",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "530",
+        "title": "Minimum Absolute Difference in BST",
+        "external_link": "minimum-absolute-difference-in-bst",
+        "difficulty": "Easy",
+        "pattern_id": "27",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "98",
+        "title": "Validate Binary Search Tree",
+        "external_link": "validate-binary-search-tree",
+        "difficulty": "Medium",
+        "pattern_id": "27",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "230",
+        "title": "Kth Smallest Element in a BST",
+        "external_link": "kth-smallest-element-in-a-bst",
+        "difficulty": "Medium",
+        "pattern_id": "27",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "173",
+        "title": "Binary Search Tree Iterator",
+        "external_link": "binary-search-tree-iterator",
+        "difficulty": "Medium",
+        "pattern_id": "27",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Tree Traversal - Post-Order",
+    "info_path": "",
+    "order_idx": "28",
+    "problems": [
+      {
+        "id": "145",
+        "title": "Binary Tree Postorder Traversal",
+        "external_link": "binary-tree-postorder-traversal",
+        "difficulty": "Easy",
+        "pattern_id": "28",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "226",
+        "title": "Invert Binary Tree",
+        "external_link": "invert-binary-tree",
+        "difficulty": "Easy",
+        "pattern_id": "28",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "543",
+        "title": "Diameter of Binary Tree",
+        "external_link": "diameter-of-binary-tree",
+        "difficulty": "Easy",
+        "pattern_id": "28",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1110",
+        "title": "Delete Nodes And Return Forest",
+        "external_link": "delete-nodes-and-return-forest",
+        "difficulty": "Medium",
+        "pattern_id": "28",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "236",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "external_link": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium",
+        "pattern_id": "28",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "652",
+        "title": "Find Duplicate Subtrees",
+        "external_link": "find-duplicate-subtrees",
+        "difficulty": "Medium",
+        "pattern_id": "28",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "114",
+        "title": "Flatten Binary Tree to Linked List",
+        "external_link": "flatten-binary-tree-to-linked-list",
+        "difficulty": "Medium",
+        "pattern_id": "28",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "979",
+        "title": "Distribute Coins in Binary Tree",
+        "external_link": "distribute-coins-in-binary-tree",
+        "difficulty": "Medium",
+        "pattern_id": "28",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "124",
+        "title": "Binary Tree Maximum Path Sum",
+        "external_link": "binary-tree-maximum-path-sum",
+        "difficulty": "Hard",
+        "pattern_id": "28",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "BST / Ordered Set",
+    "info_path": "https://www.youtube.com/watch?v=JfSdGQdAzq8&list=PLDV1Zeh2NRsCYY48kOkeLQ-cg9-eqInzs",
+    "order_idx": "29",
+    "problems": [
+      {
+        "id": "669",
+        "title": "Trim a Binary Search Tree",
+        "external_link": "trim-a-binary-search-tree",
+        "difficulty": "Medium",
+        "pattern_id": "29",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "729",
+        "title": "My Calendar I",
+        "external_link": "my-calendar-i",
+        "difficulty": "Medium",
+        "pattern_id": "29",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "731",
+        "title": "My Calendar II",
+        "external_link": "my-calendar-ii",
+        "difficulty": "Medium",
+        "pattern_id": "29",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2034",
+        "title": "Stock Price Fluctuation ",
+        "external_link": "stock-price-fluctuation",
+        "difficulty": "Medium",
+        "pattern_id": "29",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Tries",
+    "info_path": "https://www.youtube.com/watch?v=zIjfhVPRZCg",
+    "order_idx": "30",
+    "problems": [
+      {
+        "id": "208",
+        "title": "Implement Trie (Prefix Tree)",
+        "external_link": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "pattern_id": "30",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "211",
+        "title": "Design Add and Search Words Data Structure",
+        "external_link": "design-add-and-search-words-data-structure",
+        "difficulty": "Medium",
+        "pattern_id": "30",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1268",
+        "title": "Search Suggestions System",
+        "external_link": "search-suggestions-system",
+        "difficulty": "Medium",
+        "pattern_id": "30",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "720",
+        "title": "Longest Word in Dictionary",
+        "external_link": "longest-word-in-dictionary",
+        "difficulty": "Medium",
+        "pattern_id": "30",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "421",
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "external_link": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium",
+        "pattern_id": "30",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "212",
+        "title": "Word Search II",
+        "external_link": "word-search-ii",
+        "difficulty": "Hard",
+        "pattern_id": "30",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Heaps",
+    "info_path": "https://www.youtube.com/watch?v=wptevk0bshY&list=PLDV1Zeh2NRsCLFSHm1nYb9daYf60lCcag",
+    "order_idx": "31",
+    "problems": [
+      {
+        "id": "1642",
+        "title": "Furthest Building You Can Reach",
+        "external_link": "furthest-building-you-can-reach",
+        "difficulty": "Medium",
+        "pattern_id": "31",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1834",
+        "title": "Single-Threaded CPU",
+        "external_link": "single-threaded-cpu",
+        "difficulty": "Medium",
+        "pattern_id": "31",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1882",
+        "title": "Process Tasks Using Servers",
+        "external_link": "process-tasks-using-servers",
+        "difficulty": "Medium",
+        "pattern_id": "31",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Two Heaps",
+    "info_path": "https://emre.me/coding-patterns/two-heaps/",
+    "order_idx": "32",
+    "problems": [
+      {
+        "id": "295",
+        "title": "Find Median from Data Stream",
+        "external_link": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "pattern_id": "32",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "502",
+        "title": "IPO",
+        "external_link": "ipo",
+        "difficulty": "Hard",
+        "pattern_id": "32",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "480",
+        "title": "Sliding Window Median",
+        "external_link": "sliding-window-median",
+        "difficulty": "Hard",
+        "pattern_id": "32",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Top K Elements",
+    "info_path": "https://www.youtube.com/watch?v=6_v6OoxvMOE",
+    "order_idx": "33",
+    "problems": [
+      {
+        "id": "703",
+        "title": "Kth Largest Element in a Stream",
+        "external_link": "kth-largest-element-in-a-stream",
+        "difficulty": "Easy",
+        "pattern_id": "33",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "347",
+        "title": "Top K Frequent Elements",
+        "external_link": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "pattern_id": "33",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "973",
+        "title": "K Closest Points to Origin",
+        "external_link": "k-closest-points-to-origin",
+        "difficulty": "Medium",
+        "pattern_id": "33",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Intervals",
+    "info_path": "https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679",
+    "order_idx": "34",
+    "problems": [
+      {
+        "id": "56",
+        "title": "Merge Intervals",
+        "external_link": "merge-intervals",
+        "difficulty": "Medium",
+        "pattern_id": "34",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "57",
+        "title": "Insert Interval",
+        "external_link": "insert-interval",
+        "difficulty": "Medium",
+        "pattern_id": "34",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "452",
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "external_link": "minimum-number-of-arrows-to-burst-balloons",
+        "difficulty": "Medium",
+        "pattern_id": "34",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1353",
+        "title": "Maximum Number of Events That Can Be Attended",
+        "external_link": "maximum-number-of-events-that-can-be-attended",
+        "difficulty": "Medium",
+        "pattern_id": "34",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "435",
+        "title": "Non-overlapping Intervals",
+        "external_link": "non-overlapping-intervals",
+        "difficulty": "Medium",
+        "pattern_id": "34",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "K-Way Merge",
+    "info_path": "",
+    "order_idx": "35",
+    "problems": [
+      {
+        "id": "373",
+        "title": "Find K Pairs with Smallest Sums",
+        "external_link": "find-k-pairs-with-smallest-sums",
+        "difficulty": "Medium",
+        "pattern_id": "35",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "378",
+        "title": "Kth Smallest Element in a Sorted Matrix",
+        "external_link": "kth-smallest-element-in-a-sorted-matrix",
+        "difficulty": "Medium",
+        "pattern_id": "35",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "23",
+        "title": "Merge k Sorted Lists",
+        "external_link": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "pattern_id": "35",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "632",
+        "title": "Smallest Range Covering Elements from K Lists",
+        "external_link": "smallest-range-covering-elements-from-k-lists",
+        "difficulty": "Hard",
+        "pattern_id": "35",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Data Structure Design",
+    "info_path": "",
+    "order_idx": "36",
+    "problems": [
+      {
+        "id": "1472",
+        "title": "Design Browser History",
+        "external_link": "design-browser-history",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "981",
+        "title": "Time Based Key-Value Store",
+        "external_link": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1146",
+        "title": "Snapshot Array",
+        "external_link": "snapshot-array",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "355",
+        "title": "Design Twitter",
+        "external_link": "design-twitter",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "146",
+        "title": "LRU Cache",
+        "external_link": "lru-cache",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "380",
+        "title": "Insert Delete GetRandom O(1)",
+        "external_link": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2353",
+        "title": "Design a Food Rating System",
+        "external_link": "design-a-food-rating-system",
+        "difficulty": "Medium",
+        "pattern_id": "36",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "895",
+        "title": "Maximum Frequency Stack",
+        "external_link": "maximum-frequency-stack",
+        "difficulty": "Hard",
+        "pattern_id": "36",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Greedy",
+    "info_path": "https://www.youtube.com/watch?v=ARvQcqJ_-NY",
+    "order_idx": "37",
+    "problems": [
+      {
+        "id": "45",
+        "title": "Jump Game II",
+        "external_link": "jump-game-ii",
+        "difficulty": "Medium",
+        "pattern_id": "37",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "921",
+        "title": "Minimum Add to Make Parentheses Valid",
+        "external_link": "minimum-add-to-make-parentheses-valid",
+        "difficulty": "Medium",
+        "pattern_id": "37",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "134",
+        "title": "Gas Station",
+        "external_link": "gas-station",
+        "difficulty": "Medium",
+        "pattern_id": "37",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "621",
+        "title": "Task Scheduler",
+        "external_link": "task-scheduler",
+        "difficulty": "Medium",
+        "pattern_id": "37",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "857",
+        "title": "Minimum Cost to Hire K Workers",
+        "external_link": "minimum-cost-to-hire-k-workers",
+        "difficulty": "Hard",
+        "pattern_id": "37",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "135",
+        "title": "Candy",
+        "external_link": "candy",
+        "difficulty": "Hard",
+        "pattern_id": "37",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "871",
+        "title": "Minimum Number of Refueling Stops",
+        "external_link": "minimum-number-of-refueling-stops",
+        "difficulty": "Hard",
+        "pattern_id": "37",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Depth First Search (DFS)",
+    "info_path": "https://www.youtube.com/watch?v=7fujbpJ0LB4",
+    "order_idx": "38",
+    "problems": [
+      {
+        "id": "200",
+        "title": "Number of Islands",
+        "external_link": "number-of-islands",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1376",
+        "title": "Time Needed to Inform All Employees",
+        "external_link": "time-needed-to-inform-all-employees",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "797",
+        "title": "All Paths From Source to Target",
+        "external_link": "all-paths-from-source-to-target",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "133",
+        "title": "Clone Graph",
+        "external_link": "clone-graph",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "785",
+        "title": "Is Graph Bipartite?",
+        "external_link": "is-graph-bipartite",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "863",
+        "title": "All Nodes Distance K in Binary Tree",
+        "external_link": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "690",
+        "title": "Employee Importance",
+        "external_link": "employee-importance",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "130",
+        "title": "Surrounded Regions",
+        "external_link": "surrounded-regions",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "417",
+        "title": "Pacific Atlantic Water Flow",
+        "external_link": "pacific-atlantic-water-flow",
+        "difficulty": "Medium",
+        "pattern_id": "38",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "827",
+        "title": "Making A Large Island",
+        "external_link": "making-a-large-island",
+        "difficulty": "Hard",
+        "pattern_id": "38",
+        "order_idx": "10",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Breadth First Search (BFS)",
+    "info_path": "https://www.youtube.com/watch?v=oDqjPvD54Ss",
+    "order_idx": "39",
+    "problems": [
+      {
+        "id": "994",
+        "title": "Rotting Oranges",
+        "external_link": "rotting-oranges",
+        "difficulty": "Medium",
+        "pattern_id": "39",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "542",
+        "title": "01 Matrix",
+        "external_link": "01-matrix",
+        "difficulty": "Medium",
+        "pattern_id": "39",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "752",
+        "title": "Open the Lock",
+        "external_link": "open-the-lock",
+        "difficulty": "Medium",
+        "pattern_id": "39",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1293",
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "external_link": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard",
+        "pattern_id": "39",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "815",
+        "title": "Bus Routes",
+        "external_link": "bus-routes",
+        "difficulty": "Hard",
+        "pattern_id": "39",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "127",
+        "title": "Word Ladder",
+        "external_link": "word-ladder",
+        "difficulty": "Hard",
+        "pattern_id": "39",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Topological Sort",
+    "info_path": "https://www.youtube.com/watch?v=eL-KzMXSXXI",
+    "order_idx": "40",
+    "problems": [
+      {
+        "id": "210",
+        "title": "Course Schedule II",
+        "external_link": "course-schedule-ii",
+        "difficulty": "Medium",
+        "pattern_id": "40",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "802",
+        "title": "Find Eventual Safe States",
+        "external_link": "find-eventual-safe-states",
+        "difficulty": "Medium",
+        "pattern_id": "40",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "310",
+        "title": "Minimum Height Trees",
+        "external_link": "minimum-height-trees",
+        "difficulty": "Medium",
+        "pattern_id": "40",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1203",
+        "title": "Sort Items by Groups Respecting Dependencies",
+        "external_link": "sort-items-by-groups-respecting-dependencies",
+        "difficulty": "Hard",
+        "pattern_id": "40",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Union Find",
+    "info_path": "https://www.youtube.com/watch?v=ibjEGG7ylHk&list=PLDV1Zeh2NRsBI1C-mR6ZhHTyfoEJWlxvq",
+    "order_idx": "41",
+    "problems": [
+      {
+        "id": "547",
+        "title": "Number of Provinces",
+        "external_link": "number-of-provinces",
+        "difficulty": "Medium",
+        "pattern_id": "41",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "684",
+        "title": "Redundant Connection",
+        "external_link": "redundant-connection",
+        "difficulty": "Medium",
+        "pattern_id": "41",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "721",
+        "title": "Accounts Merge",
+        "external_link": "accounts-merge",
+        "difficulty": "Medium",
+        "pattern_id": "41",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "924",
+        "title": "Minimize Malware Spread",
+        "external_link": "minimize-malware-spread",
+        "difficulty": "Hard",
+        "pattern_id": "41",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Minimum Spanning Tree",
+    "info_path": "https://www.youtube.com/watch?v=4ZlRH0eK-qQ",
+    "order_idx": "42",
+    "problems": [
+      {
+        "id": "1584",
+        "title": "Min Cost to Connect All Points",
+        "external_link": "min-cost-to-connect-all-points",
+        "difficulty": "Medium",
+        "pattern_id": "42",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Shortest Path",
+    "info_path": "https://www.youtube.com/watch?v=j0OUwduDOS0",
+    "order_idx": "42",
+    "problems": [
+      {
+        "id": "743",
+        "title": "Network Delay Time",
+        "external_link": "network-delay-time",
+        "difficulty": "Medium",
+        "pattern_id": "43",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "787",
+        "title": "Cheapest Flights Within K Stops",
+        "external_link": "cheapest-flights-within-k-stops",
+        "difficulty": "Medium",
+        "pattern_id": "43",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1514",
+        "title": "Path with Maximum Probability",
+        "external_link": "path-with-maximum-probability",
+        "difficulty": "Medium",
+        "pattern_id": "43",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1631",
+        "title": "Path With Minimum Effort",
+        "external_link": "path-with-minimum-effort",
+        "difficulty": "Medium",
+        "pattern_id": "43",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "778",
+        "title": "Swim in Rising Water",
+        "external_link": "swim-in-rising-water",
+        "difficulty": "Hard",
+        "pattern_id": "43",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Eulerian Circuit",
+    "info_path": "",
+    "order_idx": "44",
+    "problems": [
+      {
+        "id": "332",
+        "title": "Reconstruct Itinerary",
+        "external_link": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "pattern_id": "44",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "753",
+        "title": "Cracking the Safe",
+        "external_link": "cracking-the-safe",
+        "difficulty": "Hard",
+        "pattern_id": "44",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "1-D DP",
+    "info_path": "https://www.youtube.com/watch?v=_i4Yxeh5ceQ",
+    "order_idx": "45",
+    "problems": [
+      {
+        "id": "70",
+        "title": "Climbing Stairs",
+        "external_link": "climbing-stairs",
+        "difficulty": "Easy",
+        "pattern_id": "45",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "746",
+        "title": "Min Cost Climbing Stairs",
+        "external_link": "min-cost-climbing-stairs",
+        "difficulty": "Easy",
+        "pattern_id": "45",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "198",
+        "title": "House Robber",
+        "external_link": "house-robber",
+        "difficulty": "Medium",
+        "pattern_id": "45",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "213",
+        "title": "House Robber II",
+        "external_link": "house-robber-ii",
+        "difficulty": "Medium",
+        "pattern_id": "45",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Knapsack DP",
+    "info_path": "https://www.youtube.com/watch?v=cJ21moQpofY",
+    "order_idx": "46",
+    "problems": [
+      {
+        "id": "416",
+        "title": "Partition Equal Subset Sum",
+        "external_link": "partition-equal-subset-sum",
+        "difficulty": "Medium",
+        "pattern_id": "46",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "494",
+        "title": "Target Sum",
+        "external_link": "target-sum",
+        "difficulty": "Medium",
+        "pattern_id": "46",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1049",
+        "title": "Last Stone Weight II",
+        "external_link": "last-stone-weight-ii",
+        "difficulty": "Medium",
+        "pattern_id": "46",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Unbounded Knapsack DP ",
+    "info_path": "https://www.youtube.com/watch?v=OgvOZ6OrJoY",
+    "order_idx": "47",
+    "problems": [
+      {
+        "id": "322",
+        "title": "Coin Change",
+        "external_link": "coin-change",
+        "difficulty": "Medium",
+        "pattern_id": "47",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "518",
+        "title": "Coin Change II",
+        "external_link": "coin-change-ii",
+        "difficulty": "Medium",
+        "pattern_id": "47",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "279",
+        "title": "Perfect Squares",
+        "external_link": "perfect-squares",
+        "difficulty": "Medium",
+        "pattern_id": "47",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Longest Increasing Subsequence DP",
+    "info_path": "https://www.youtube.com/watch?v=cjWnW0hdF1Y",
+    "order_idx": "48",
+    "problems": [
+      {
+        "id": "300",
+        "title": "Longest Increasing Subsequence",
+        "external_link": "longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "pattern_id": "48",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "673",
+        "title": "Number of Longest Increasing Subsequence",
+        "external_link": "number-of-longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "pattern_id": "48",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "354",
+        "title": "Russian Doll Envelopes",
+        "external_link": "russian-doll-envelopes",
+        "difficulty": "Hard",
+        "pattern_id": "48",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "2D (Grid) DP",
+    "info_path": "https://www.youtube.com/watch?v=qMky6D6YtXU",
+    "order_idx": "49",
+    "problems": [
+      {
+        "id": "63",
+        "title": "Unique Paths II",
+        "external_link": "unique-paths-ii",
+        "difficulty": "Medium",
+        "pattern_id": "49",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "64",
+        "title": "Minimum Path Sum",
+        "external_link": "minimum-path-sum",
+        "difficulty": "Medium",
+        "pattern_id": "49",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "120",
+        "title": "Triangle",
+        "external_link": "triangle",
+        "difficulty": "Medium",
+        "pattern_id": "49",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1277",
+        "title": "Count Square Submatrices with All Ones",
+        "external_link": "count-square-submatrices-with-all-ones",
+        "difficulty": "Medium",
+        "pattern_id": "49",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1937",
+        "title": "Maximum Number of Points with Cost",
+        "external_link": "maximum-number-of-points-with-cost",
+        "difficulty": "Medium",
+        "pattern_id": "49",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "312",
+        "title": "Burst Balloons",
+        "external_link": "burst-balloons",
+        "difficulty": "Hard",
+        "pattern_id": "49",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1235",
+        "title": "Maximum Profit in Job Scheduling",
+        "external_link": "maximum-profit-in-job-scheduling",
+        "difficulty": "Hard",
+        "pattern_id": "49",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "741",
+        "title": "Cherry Pickup",
+        "external_link": "cherry-pickup",
+        "difficulty": "Hard",
+        "pattern_id": "49",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "329",
+        "title": "Longest Increasing Path in a Matrix",
+        "external_link": "longest-increasing-path-in-a-matrix",
+        "difficulty": "Hard",
+        "pattern_id": "49",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "String DP",
+    "info_path": "",
+    "order_idx": "50",
+    "problems": [
+      {
+        "id": "1143",
+        "title": "Longest Common Subsequence",
+        "external_link": "longest-common-subsequence",
+        "difficulty": "Medium",
+        "pattern_id": "50",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "72",
+        "title": "Edit Distance",
+        "external_link": "edit-distance",
+        "difficulty": "Medium",
+        "pattern_id": "50",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "516",
+        "title": "Longest Palindromic Subsequence",
+        "external_link": "longest-palindromic-subsequence",
+        "difficulty": "Medium",
+        "pattern_id": "50",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "91",
+        "title": "Decode Ways",
+        "external_link": "decode-ways",
+        "difficulty": "Medium",
+        "pattern_id": "50",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "139",
+        "title": "Word Break",
+        "external_link": "word-break",
+        "difficulty": "Medium",
+        "pattern_id": "50",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "97",
+        "title": "Interleaving String",
+        "external_link": "interleaving-string",
+        "difficulty": "Medium",
+        "pattern_id": "50",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "44",
+        "title": "Wildcard Matching",
+        "external_link": "wildcard-matching",
+        "difficulty": "Hard",
+        "pattern_id": "50",
+        "order_idx": "7",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "115",
+        "title": "Distinct Subsequences",
+        "external_link": "distinct-subsequences",
+        "difficulty": "Hard",
+        "pattern_id": "50",
+        "order_idx": "8",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "132",
+        "title": "Palindrome Partitioning II",
+        "external_link": "palindrome-partitioning-ii",
+        "difficulty": "Hard",
+        "pattern_id": "50",
+        "order_idx": "9",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Tree / Graph DP",
+    "info_path": "",
+    "order_idx": "51",
+    "problems": [
+      {
+        "id": "337",
+        "title": "House Robber III",
+        "external_link": "house-robber-iii",
+        "difficulty": "Medium",
+        "pattern_id": "51",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "95",
+        "title": "Unique Binary Search Trees II",
+        "external_link": "unique-binary-search-trees-ii",
+        "difficulty": "Medium",
+        "pattern_id": "51",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "1976",
+        "title": "Number of Ways to Arrive at Destination",
+        "external_link": "number-of-ways-to-arrive-at-destination",
+        "difficulty": "Medium",
+        "pattern_id": "51",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "968",
+        "title": "Binary Tree Cameras",
+        "external_link": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "pattern_id": "51",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "834",
+        "title": "Sum of Distances in Tree",
+        "external_link": "sum-of-distances-in-tree",
+        "difficulty": "Hard",
+        "pattern_id": "51",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Bitmask DP",
+    "info_path": "https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/",
+    "order_idx": "52",
+    "problems": [
+      {
+        "id": "1986",
+        "title": "Minimum Number of Work Sessions to Finish the Tasks",
+        "external_link": "minimum-number-of-work-sessions-to-finish-the-tasks",
+        "difficulty": "Medium",
+        "pattern_id": "52",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "2305",
+        "title": "Fair Distribution of Cookies",
+        "external_link": "fair-distribution-of-cookies",
+        "difficulty": "Medium",
+        "pattern_id": "52",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "847",
+        "title": "Shortest Path Visiting All Nodes",
+        "external_link": "shortest-path-visiting-all-nodes",
+        "difficulty": "Hard",
+        "pattern_id": "52",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Digit DP",
+    "info_path": "https://www.youtube.com/watch?v=heUFId6Qd1A",
+    "order_idx": "53",
+    "problems": [
+      {
+        "id": "357",
+        "title": "Count Numbers with Unique Digits",
+        "external_link": "count-numbers-with-unique-digits",
+        "difficulty": "Medium",
+        "pattern_id": "53",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "233",
+        "title": "Number of Digit One",
+        "external_link": "number-of-digit-one",
+        "difficulty": "Hard",
+        "pattern_id": "53",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "902",
+        "title": "Numbers At Most N Given Digit Set",
+        "external_link": "numbers-at-most-n-given-digit-set",
+        "difficulty": "Hard",
+        "pattern_id": "53",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Probability DP",
+    "info_path": "",
+    "order_idx": "54",
+    "problems": [
+      {
+        "id": "688",
+        "title": "Knight Probability in Chessboard",
+        "external_link": "knight-probability-in-chessboard",
+        "difficulty": "Medium",
+        "pattern_id": "54",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "808",
+        "title": "Soup Servings",
+        "external_link": "soup-servings",
+        "difficulty": "Medium",
+        "pattern_id": "54",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "837",
+        "title": "New 21 Game",
+        "external_link": "new-21-game",
+        "difficulty": "Medium",
+        "pattern_id": "54",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "State Machine DP",
+    "info_path": "",
+    "order_idx": "55",
+    "problems": [
+      {
+        "id": "309",
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "external_link": "best-time-to-buy-and-sell-stock-with-cooldown",
+        "difficulty": "Medium",
+        "pattern_id": "55",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "123",
+        "title": "Best Time to Buy and Sell Stock III",
+        "external_link": "best-time-to-buy-and-sell-stock-iii",
+        "difficulty": "Hard",
+        "pattern_id": "55",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "String Matching",
+    "info_path": "https://www.youtube.com/watch?v=V5-7GzOfADQ",
+    "order_idx": "56",
+    "problems": [
+      {
+        "id": "686",
+        "title": "Repeated String Match",
+        "external_link": "repeated-string-match",
+        "difficulty": "Medium",
+        "pattern_id": "56",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "214",
+        "title": "Shortest Palindrome",
+        "external_link": "shortest-palindrome",
+        "difficulty": "Hard",
+        "pattern_id": "56",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Binary Indexed Tree / Segment Tree",
+    "info_path": "",
+    "order_idx": "57",
+    "problems": [
+      {
+        "id": "307",
+        "title": "Range Sum Query - Mutable",
+        "external_link": "range-sum-query-mutable",
+        "difficulty": "Medium",
+        "pattern_id": "57",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "315",
+        "title": "Count of Smaller Numbers After Self",
+        "external_link": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard",
+        "pattern_id": "57",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Maths / Geometry",
+    "info_path": "",
+    "order_idx": "58",
+    "problems": [
+      {
+        "id": "9",
+        "title": "Palindrome Number",
+        "external_link": "palindrome-number",
+        "difficulty": "Easy",
+        "pattern_id": "58",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "7",
+        "title": "Reverse Integer",
+        "external_link": "reverse-integer",
+        "difficulty": "Medium",
+        "pattern_id": "58",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "172",
+        "title": "Factorial Trailing Zeroes",
+        "external_link": "factorial-trailing-zeroes",
+        "difficulty": "Medium",
+        "pattern_id": "58",
+        "order_idx": "3",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "593",
+        "title": "Valid Square",
+        "external_link": "valid-square",
+        "difficulty": "Medium",
+        "pattern_id": "58",
+        "order_idx": "4",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "963",
+        "title": "Minimum Area Rectangle II",
+        "external_link": "minimum-area-rectangle-ii",
+        "difficulty": "Medium",
+        "pattern_id": "58",
+        "order_idx": "5",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "149",
+        "title": "Max Points on a Line",
+        "external_link": "max-points-on-a-line",
+        "difficulty": "Hard",
+        "pattern_id": "58",
+        "order_idx": "6",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Line Sweep",
+    "info_path": "https://leetcode.com/discuss/study-guide/2166045/Line-Sweep-Algorithms",
+    "order_idx": "59",
+    "problems": [
+      {
+        "id": "1851",
+        "title": "Minimum Interval to Include Each Query",
+        "external_link": "minimum-interval-to-include-each-query",
+        "difficulty": "Hard",
+        "pattern_id": "59",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      },
+      {
+        "id": "218",
+        "title": "The Skyline Problem",
+        "external_link": "the-skyline-problem",
+        "difficulty": "Hard",
+        "pattern_id": "59",
+        "order_idx": "2",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Suffix Array",
+    "info_path": "https://www.youtube.com/playlist?list=PLDV1Zeh2NRsCQ_Educ7GCNs3mvzpXhHW5",
+    "order_idx": "60",
+    "problems": [
+      {
+        "id": "1044",
+        "title": "Longest Duplicate Substring",
+        "external_link": "longest-duplicate-substring",
+        "difficulty": "Hard",
+        "pattern_id": "60",
+        "order_idx": "1",
+        "todo": false,
+        "isComplete": false
+      }
+    ]
+  }
+]
