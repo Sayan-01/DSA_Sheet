@@ -27,7 +27,7 @@ export default function Home() {
   const [category, setCategory] = useState<Category[]>([]);
 
   // Calculate stats dynamically
-  const solvedProblems = category.filter((p) => p.status === "solved").length;
+  const solvedProblems = category.filter((p) => p.problems.isComplete === true).length;
   const stats = {
     totalSolved: solvedProblems,
     totalProblems: 300,
@@ -73,7 +73,6 @@ export default function Home() {
         {/* Problem Lists */}
         <div className="space-y-8">
           <CategoryList
-            pattern="Arrays"
             categorys={category}
             progress={{ current: solvedProblems, total: category.length }}
             onUpdateStatus={updateProblemStatus}

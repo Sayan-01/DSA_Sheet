@@ -10,7 +10,7 @@ export interface Problem {
   id: string;
   title: string;
   external_link: string;
-  difficulty: "easy" | "medium" | "hard";
+  difficulty: "Easy" | "Medium" | "Hard";
   pattern_id: string;
   order_idx: string;
   todo: boolean;

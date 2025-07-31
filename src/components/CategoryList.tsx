@@ -1,3 +1,4 @@
+'use client'
 import { useState } from "react";
 import { Check, X, Clock, Star, ExternalLink, Code, Play } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
@@ -5,27 +6,17 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { cn } from "@/lib/utils";
-import { Category } from "../../types";
+import { Category, Problem } from "../../types";
 
-interface Problem {
-  id: string;
-  title: string;
-  external_link: string;
-  difficulty: "easy" | "medium" | "hard";
-  pattern_id: string;
-  order_idx: string;
-  todo: boolean;
-  isComplete: boolean;
-}
 
 interface CategoryListProps {
   pattern: string;
   categorys: Category[];
   progress: { current: number; total: number };
-  onUpdateStatus?: (problemId: string, status: "solved" | "attempted" | "todo") => void;
+  onUpdateStatus?: (problemId: string, status: boolean) => void;
 }
 
-const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: CategoryListProps) => {
+const CategoryList = ({ categorys, progress, onUpdateStatus }: CategoryListProps) => {
   const [starredProblems, setStarredProblems] = useState<Set<string>>(new Set());
 
   const toggleStar = (problemId: string) => {
@@ -40,26 +31,29 @@ const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: Category
     });
   };
 
-  const getStatusIcon = (status: Problem["status"], problemId: string) => {
+  const updateProblemStatus = (problemId: string, currStatus: boolean) => {
+    fetch(`/api/data/${problemId}`, {
+      method: "PUT",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ problemId, currStatus }),
+    });
+  };
+
+  const getStatusIcon = (status: Problem["todo"], problemId: string) => {
     const handleStatusClick = () => {
       if (onUpdateStatus) {
-        const newStatus = status === "todo" ? "solved" : status === "solved" ? "todo" : "solved";
+        const newStatus = status === true ? false : true;
         onUpdateStatus(problemId, newStatus);
       }
     };
 
     switch (status) {
-      case "solved":
+      case true:
         return (
           <Check
             className="h-4 w-4 text-success cursor-pointer"
-            onClick={handleStatusClick}
-          />
-        );
-      case "attempted":
-        return (
-          <Clock
-            className="h-4 w-4 text-warning cursor-pointer"
             onClick={handleStatusClick}
           />
         );
@@ -75,11 +69,11 @@ const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: Category
 
   const getDifficultyColor = (difficulty: Problem["difficulty"]) => {
     switch (difficulty) {
-      case "easy":
+      case "Easy":
         return "text-sky-400";
-      case "medium":
+      case "Medium":
         return "text-yellow-400";
-      case "hard":
+      case "Hard":
         return "text-destructive";
     }
   };
@@ -123,13 +117,12 @@ const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: Category
           <CardContent className="pt-0">
             <div className="space-y-2">
               {/* Header */}
-              <div className="grid grid-cols-12 gap-4 px-4 py-2 text-sm font-medium text-muted-foreground border-b border-border">
+              <div className="grid grid-cols-12  gap-4 px-4 py-2 text-sm font-medium text-muted-foreground border-b border-border">
                 <div className="col-span-1">Status</div>
-                <div className="col-span-5">Problem</div>
+                <div className="col-span-6">Problem</div>
                 <div className="col-span-2">Difficulty</div>
-                <div className="col-span-2">Solution</div>
+                <div className="col-span-2">Number</div>
                 <div className="col-span-1">Star</div>
-                <div className="col-span-1">Actions</div>
               </div>
 
               {/* Problem Rows */}
@@ -143,19 +136,11 @@ const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: Category
                     )}
                   >
                     {/* Status */}
-                    <div className="col-span-1 flex items-center">{getStatusIcon(problem.status, problem.id)}</div>
+                    <div className="col-span-1 flex items-center" onClick={() => updateProblemStatus(problem.id, problem.isComplete)}>{getStatusIcon(problem.isComplete, problem.id)}</div>
 
                     {/* Problem Title */}
-                    <div className="col-span-5 flex items-center">
+                    <div className="col-span-6 flex items-center">
                       <span className="text-foreground hover:text-primary cursor-pointer transition-smooth">{problem.title}</span>
-                      {problem.frequency && (
-                        <Badge
-                          variant="secondary"
-                          className="ml-2 text-xs"
-                        >
-                          {problem.frequency}%
-                        </Badge>
-                      )}
                     </div>
 
                     {/* Difficulty */}
@@ -170,20 +155,7 @@ const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: Category
 
                     {/* Solution */}
                     <div className="col-span-2 flex items-center space-x-2">
-                      <Button
-                        variant="ghost"
-                        size="sm"
-                        className="h-8 w-8 p-0"
-                      >
-                        <Code className="h-4 w-4" />
-                      </Button>
-                      <Button
-                        variant="ghost"
-                        size="sm"
-                        className="h-8 w-8 p-0"
-                      >
-                        <Play className="h-4 w-4" />
-                      </Button>
+                      <Badge variant="secondary" className="pl-1">🔥 {problem.id}</Badge>
                     </div>
 
                     {/* Star */}
@@ -194,18 +166,7 @@ const CategoryList = ({ pattern, categorys, progress, onUpdateStatus }: Category
                         className="h-8 w-8 p-0"
                         onClick={() => toggleStar(problem.id)}
                       >
-                        <Star className={cn("h-4 w-4", starredProblems.has(problem.id) || problem.starred ? "fill-warning text-warning" : "text-muted-foreground")} />
-                      </Button>
-                    </div>
-
-                    {/* Actions */}
-                    <div className="col-span-1 flex items-center">
-                      <Button
-                        variant="ghost"
-                        size="sm"
-                        className="h-8 px-2 text-primary"
-                      >
-                        Solve
+                        <Star className={cn("h-4 w-4", starredProblems.has(problem.id) || problem.todo ? "fill-warning text-warning" : "text-muted-foreground")} />
                       </Button>
                     </div>
                   </div>

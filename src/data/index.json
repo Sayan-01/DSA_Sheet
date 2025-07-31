@@ -4,6 +4,7 @@
     "name": "Arrays",
     "info_path": "https://www.youtube.com/watch?v=PEnFFiQe1pM",
     "order_idx": "1",
+    "total_solve": 0,
     "problems": [
       {
         "id": "283",
